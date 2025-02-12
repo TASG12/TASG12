@@ -1,6 +1,5 @@
 # 👋 Hey!
 
-## TASG12
 [![Total Repos](https://img.shields.io/badge/Total%20Repo-41-orange)](https://github.com/TASG12?tab=repositories)
 [![Stars Count](https://img.shields.io/badge/Stars%20Count-23-yellow)](https://github.com/TASG12?tab=repositories)
 [![Forks Count](https://img.shields.io/badge/Forks%20Count-6-green)](https://github.com/TASG12?tab=repositories)
