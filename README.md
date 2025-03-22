@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on Federate 2.0
 - 🌱 Mainly code Discord bots w/ Discord.js
-- 💬 How to reach me: [Discord](https://discord.gg/wsrpf)
+- 💬 How to reach me: [Discord](https://discord.com/users/814411815806566401)
 
 ## 🛠 Languages:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
