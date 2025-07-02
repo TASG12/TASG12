@@ -5,7 +5,7 @@
 [![Forks Count](https://img.shields.io/badge/Forks%20Count-6-green)](https://github.com/TASG12?tab=repositories)
 [![Contributions](https://img.shields.io/badge/Contributions-489-blue)](https://github.com/TASG12)
 
-- 🔭 Currently working on Federate 2.0
+- 🔭 Currently working on Federate E*********
 - 🌱 Mainly code Discord bots w/ Discord.js
 - 💬 How to reach me: [Discord](https://discord.com/users/814411815806566401)
 
